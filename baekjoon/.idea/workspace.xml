@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da2dadb3-968a-4c09-8dcc-e0ee9f27fc0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/while문/A+B-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while문/A+B-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while문/더하기싸이클.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1차원배열/나머지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1차원배열/숫자의개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1차원배열/최대값.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1차원배열/최대최소.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.더하기싸이클">
-    <configuration name="별찍기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.나머지">
+    <configuration name="최대최소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for문" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/일차원배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for문/별찍기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/일차원배열/최대최소.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A+B-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="최대값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while문" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while문/A+B-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원배열/최대값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A+B-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="숫자의개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while문" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while문/A+B-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원배열/숫자의개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="X보다작은수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="나머지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for문" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for문/X보다작은수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원배열/나머지.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.나머지" />
+        <item itemvalue="Python.숫자의개수" />
+        <item itemvalue="Python.최대값" />
+        <item itemvalue="Python.최대최소" />
         <item itemvalue="Python.더하기싸이클" />
-        <item itemvalue="Python.A+B-4" />
-        <item itemvalue="Python.A+B-5" />
-        <item itemvalue="Python.X보다작은수" />
-        <item itemvalue="Python.별찍기" />
       </list>
     </recent_temporary>
   </component>
@@ -184,25 +186,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="813" height="332" key="GridCell.Tab.0.bottom" timestamp="1604652787863">
+    <state width="1659" height="332" key="GridCell.Tab.0.bottom" timestamp="1604833279893">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="332" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604652787863" />
+    <state width="1659" height="332" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604833279893" />
     <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1604540915950" />
-    <state width="813" height="332" key="GridCell.Tab.0.center" timestamp="1604652787862">
+    <state width="1659" height="332" key="GridCell.Tab.0.center" timestamp="1604833279892">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="332" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604652787862" />
+    <state width="1659" height="332" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604833279892" />
     <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1604540915950" />
-    <state width="813" height="332" key="GridCell.Tab.0.left" timestamp="1604652787861">
+    <state width="1659" height="332" key="GridCell.Tab.0.left" timestamp="1604833279891">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="332" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604652787861" />
+    <state width="1659" height="332" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604833279891" />
     <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1604540915949" />
-    <state width="813" height="332" key="GridCell.Tab.0.right" timestamp="1604652787863">
+    <state width="1659" height="332" key="GridCell.Tab.0.right" timestamp="1604833279893">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="332" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604652787863" />
+    <state width="1659" height="332" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604833279893" />
     <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1604540915950" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1604650126489">
       <screen x="0" y="0" width="1680" height="1050" />
