@@ -10,4 +10,6 @@ move = []
 hanoi(int(input()), 1, 2, 3)
 
 print(len(move))
-print("\n".join([' '.join(str(i) for i in row) for row in movw)]))
+
+for row in move:
+    print(row)
