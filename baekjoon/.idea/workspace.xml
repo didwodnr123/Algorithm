@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da2dadb3-968a-4c09-8dcc-e0ee9f27fc0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Brute-Force/2798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/수학/arooming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/baekjoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/baekjoon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/수학/손익분기점.py" beforeDir="false" afterPath="$PROJECT_DIR$/수학/손익분기점.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀/하노이탑_이동순서.py" beforeDir="false" afterPath="$PROJECT_DIR$/재귀/하노이탑_이동순서.py" afterDir="false" />
-    </list>
+    <list default="true" id="da2dadb3-968a-4c09-8dcc-e0ee9f27fc0e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2798">
+  <component name="RunManager" selected="Python.2798_블랙잭">
     <configuration name="평균은넘겠지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2798" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2798_블랙잭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brute-Force/2798.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brute-Force/2798_블랙잭.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2798" />
+        <item itemvalue="Python.2798_블랙잭" />
         <item itemvalue="Python.arooming" />
         <item itemvalue="Python.평균은넘겠지" />
       </list>
@@ -253,31 +245,31 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="620" y="286" key="FileChooserDialogImpl/1680.-64.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613961536090" />
-    <state width="813" height="281" key="GridCell.Tab.0.bottom" timestamp="1619518056224">
+    <state width="813" height="281" key="GridCell.Tab.0.bottom" timestamp="1619518257013">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1619518056224" />
+    <state width="813" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1619518257013" />
     <state width="1659" height="373" key="GridCell.Tab.0.bottom/1680.-39.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1613962166184" />
     <state width="1659" height="242" key="GridCell.Tab.0.bottom/1680.-39.1920.1055/0.25.1680.952@0.25.1680.952" timestamp="1613971802998" />
     <state width="1659" height="373" key="GridCell.Tab.0.bottom/1680.-64.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613961697996" />
-    <state width="813" height="281" key="GridCell.Tab.0.center" timestamp="1619518056223">
+    <state width="813" height="281" key="GridCell.Tab.0.center" timestamp="1619518257012">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1619518056223" />
+    <state width="813" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1619518257012" />
     <state width="1659" height="373" key="GridCell.Tab.0.center/1680.-39.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1613962166182" />
     <state width="1659" height="242" key="GridCell.Tab.0.center/1680.-39.1920.1055/0.25.1680.952@0.25.1680.952" timestamp="1613971802998" />
     <state width="1659" height="373" key="GridCell.Tab.0.center/1680.-64.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613961697995" />
-    <state width="813" height="281" key="GridCell.Tab.0.left" timestamp="1619518056223">
+    <state width="813" height="281" key="GridCell.Tab.0.left" timestamp="1619518257011">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1619518056223" />
+    <state width="813" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1619518257011" />
     <state width="1659" height="373" key="GridCell.Tab.0.left/1680.-39.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1613962166182" />
     <state width="1659" height="242" key="GridCell.Tab.0.left/1680.-39.1920.1055/0.25.1680.952@0.25.1680.952" timestamp="1613971802997" />
     <state width="1659" height="373" key="GridCell.Tab.0.left/1680.-64.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613961697994" />
-    <state width="813" height="281" key="GridCell.Tab.0.right" timestamp="1619518056224">
+    <state width="813" height="281" key="GridCell.Tab.0.right" timestamp="1619518257012">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="813" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1619518056224" />
+    <state width="813" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1619518257012" />
     <state width="1659" height="373" key="GridCell.Tab.0.right/1680.-39.1920.1055/0.0.1680.1050@0.0.1680.1050" timestamp="1613962166183" />
     <state width="1659" height="242" key="GridCell.Tab.0.right/1680.-39.1920.1055/0.25.1680.952@0.25.1680.952" timestamp="1613971802998" />
     <state width="1659" height="373" key="GridCell.Tab.0.right/1680.-64.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613961697996" />
