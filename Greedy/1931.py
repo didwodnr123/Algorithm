@@ -16,4 +16,4 @@ for s, e in times:
         answer.append([s,e])
         last = e
 
-print(answer)
+print(len(answer))
