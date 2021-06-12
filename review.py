@@ -1,15 +1,17 @@
-N, K = map(int, input().split())
-lst = []
-answer = 0
+N = int(input())
+times = []
 for _ in range(N):
-    lst.append(int(input()))
+    times.append(list(map(int, input().split())))
 
-lst.sort(reverse=True)
-for n in lst:
-    if K//n > 0:
-        answer += K//n
-        K -= (n*(K//n))
-        if K <= 0:
-            break
+times.sort(key = lambda x: x[0])
+times.sort(key = lambda x: x[1])
+
+last = 0
+answer = 0
+for s, e in times:
+    if last <= s:
+        answer += 1
+        last = e
+        
 
 print(answer)
