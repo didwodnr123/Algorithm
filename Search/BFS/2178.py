@@ -21,7 +21,7 @@ def bfs(x, y):
                 graph[nx][ny] = graph[x][y] + 1 # 다음 위치 = 그래프 전 위치 +1
                 queue.append((nx, ny)) # 큐에 다음 위치 삽입
     # 마지막 그래프 좌표의 값 == 이동횟수 출력
-    print(graph[x][y])
+    return graph[N-1][M-1]
 
 N, M = map(int, input().split())
 
@@ -29,7 +29,7 @@ graph = []
 for _ in range(N):
     graph.append(list(map(int, input())))
 # 상, 하, 좌, 우
-dx = [0, 0, -1, 1]
-dy = [1, -1, 0, 0]
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
-bfs(0, 0)
+print(bfs(0, 0))
