@@ -1,7 +1,7 @@
 def snail(N):
     global cnt
     global x, y
-    
+
     while N > 0:
         N -= 1
         for _ in range(N):
@@ -36,7 +36,6 @@ def snail(N):
 N = int(input())
 
 lst = [[0] * N for _ in range(N)]
-print(lst)
 # 아래대각, 위, 오른쪽
 dx = [1, -1, 0]
 dy = [-1, 0, 1]
@@ -47,4 +46,3 @@ cnt = 1
 lst[x][y] = cnt
 snail(N)
 print(lst)
-
