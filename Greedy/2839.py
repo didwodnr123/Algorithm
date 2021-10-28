@@ -9,6 +9,7 @@ while True:
     else:
         sugar -= 3
         bag += 1
+        
     if sugar < 0:
         print(-1)
         break
