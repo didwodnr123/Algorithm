@@ -1,10 +1,9 @@
-N = int(input())
-lst = list(map(int, input().split()))
-lst.sort()
-answer = 0
-tmp = []
+t = int(input())
+lst = sorted(list(map(int, input().split())))
+answer, tmp = 0, 0
+
 for i in lst:
-    tmp.append(i)
-    answer += sum(tmp)
+    tmp += i
+    answer += tmp  
 
 print(answer)
