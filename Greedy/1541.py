@@ -1,8 +1,14 @@
-arr = input().split('-')
-s = 0
-for i in arr[0].split('+'):
-    s += int(i)
-for i in arr[1:]:
-    for j in i.split('+'):
-        s -= int(j)
-print(s)
+formula = input().split('-')
+
+answer = 0
+cnt = 0
+
+for f in formula:
+    if cnt == 0:
+        answer += sum(map(int, f.split('+')))
+        cnt = 1
+    else:
+        answer -= sum(map(int, f.split('+')))
+
+        
+print(answer)
