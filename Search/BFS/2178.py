@@ -18,7 +18,7 @@ def bfs(x, y):
                 continue
             # 이동할 수 있고, 처음 방문한다면
             if graph[nx][ny] == 1:
-                graph[nx][ny] = graph[x][y] + 1 # 다음 위치 = 그래프 전 위치 +1
+                graph[nx][ny] += graph[x][y] # 다음 위치 = 그래프 전 위치 +1
                 queue.append((nx, ny)) # 큐에 다음 위치 삽입
     # 마지막 그래프 좌표의 값 == 이동횟수 출력
     return graph[N-1][M-1]
