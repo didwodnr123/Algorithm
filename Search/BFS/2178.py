@@ -28,6 +28,7 @@ N, M = map(int, input().split())
 graph = []
 for _ in range(N):
     graph.append(list(map(int, input())))
+print(graph)
 # 상, 하, 좌, 우
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
