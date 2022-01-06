@@ -1,39 +1,14 @@
-from collections import deque
-
-def bfs(i, j):
-    queue = deque()
-    queue.append((i,j))
-    board[i][j] = 0
-    cnt = 1
-    while queue:
-        x, y = queue.popleft()
-        for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
-            if nx<0 or ny<0 or nx>n-1 or ny>n-1:
-                continue
-            elif board[nx][ny] == 1:
-                queue.append((nx,ny))
-                board[nx][ny] = 0
-                cnt += 1
-                
-    return cnt
+'''
+[[1,0,5],[2,2,2,],[3,3,1],[4,4,1],[5,10,2]]
+'''
+def solution(data):
+    answer = []
+    time = 0
+    queue = []
+    cur = data.pop(0)
+    while True:
+        time += 1
+        cur[2] -= 1
         
+    return answer
 
-lst = []
-board = []
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-
-n = int(input())
-for _ in range(n):
-    board.append(list(map(int, input())))
-
-for i in range(n):
-    for j in range(n):
-        if board[i][j] == 1:
-            lst.append(bfs(i,j))
-            
-print(len(lst))
-for i in sorted(lst):
-    print(i)

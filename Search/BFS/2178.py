@@ -1,6 +1,6 @@
 from collections import deque
 
-def bfs(x, y):
+def bfs(x, y):  
     # queue 생성
     queue = deque()
     # 큐에 첫 시작 지점 넣기
