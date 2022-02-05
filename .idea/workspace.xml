@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="069701a6-0a7e-4ec6-ae21-85060def5542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/this-is-coding-test/greedy/만들수없는금액.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/this-is-coding-test/greedy/무지의먹방라이브.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/this-is-coding-test/greedy/볼링공고르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding-interview/string/125-valid-palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding-interview/string/49-group-anagrams.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this-is-coding-test/greedy/모험가길드.py" beforeDir="false" afterPath="$PROJECT_DIR$/this-is-coding-test/greedy/모험가길드.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643947877045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UPDATE">
+      <created>1643951859483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643951859483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
